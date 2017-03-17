@@ -36,3 +36,16 @@ ul li {
   width: 100%;
   background-color: #dee2e8;
 }
+.sectionOneText {
+  display: inline-block;
+  text-align: center;
+  width: 470px;
+
+}
+.LessThanText, .MoreThanText {
+  font-size: 45px;
+  display: inline-block;
+}
+.imagefotel {
+  display: inline-block;
+}
