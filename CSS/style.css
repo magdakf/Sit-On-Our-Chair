@@ -444,5 +444,44 @@ textarea {
     line-height: 70px;
     width: 360px;
 
-
   }
+
+/*footer*/
+
+footer {
+    clear: both;
+    color: #9e9c9e;
+  height: 600px;
+}
+
+ .copyright, .iconslogo, .logoFooter {
+    display: inline-block;
+    letter-spacing: 2px;
+    padding-top: 40px;
+}
+
+.copyright {
+    width: 600px;
+}
+
+.iconslogo {
+  display: inline-block;
+  width: 400px;
+  margin-left: 40px;
+}
+.icons {
+  display: inline-block;
+  width: 160px;
+}
+
+.logoFooter {
+  display: inline-block;
+  width: 130px;
+  padding-left: 100px;
+
+
+}
+
+.logoFooter b {
+  font-weight: bold;
+}
