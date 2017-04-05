@@ -175,7 +175,7 @@ ul li {
 
 /*CENNIK*/
 .pricelist {
-    height: 800px;
+    height: 700px;
     background-color: #f0f0f0;
 }
 
@@ -363,4 +363,86 @@ ul li {
 .pricelistItemReverse .button {
     background-color: white;
     color: #26c7a9;
+
+/*kontakt*/
 }
+.contact {
+    clear: both;
+    height: 550px;
+    background-color: white;
+    color: #979899;
+
+}
+
+.contact h2 {
+    margin-top: 0;
+    padding-top: 1.5em;
+    width: 320px;
+    border-bottom: 8px solid #26c7a9;
+    padding-bottom: 5px;
+    color: black;
+  }
+
+.contactForm {
+    float: left;
+    width: 680px;
+    height: 400px;
+    padding-top: 50px;
+}
+
+
+.contactInput {
+    width: 620px;
+    padding: 10px 0 10px 10px;
+    margin: 10px 0;
+    border: 1px solid #26c7a9;
+    font-size: 40px;
+}
+
+textarea {
+    resize: none;
+    height: 200px;
+}
+
+.contactSubmit {
+    display: inline-block;
+    width: 340px;
+    height: 400px;
+    padding-top: 50px;
+
+}
+
+.agreement {
+  padding-top: 30px;
+  display: inline-block;
+  width: 350px;
+}
+
+  .imageOk {
+    border: 1px solid #26c7a9;
+    width: 50px;
+    display: inline-block;
+
+  }
+  .agreementText {
+    display: inline-block;
+    width: 280px;
+    padding-top: 12px;
+    padding-left: 10px;
+    font-size: 18px;
+  }
+  .button2 {
+    display: inline-block;
+    margin-top: 40px;
+    height: 70px;
+    font-size: 36px;
+    background-color: #26c7a9;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 70px;
+    width: 360px;
+
+
+  }
